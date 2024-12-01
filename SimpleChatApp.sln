@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C7167F0D-BC9F-4E6E-AFE1-012C56B48DB5}") = "SimpleChatApp (Package)", "SimpleChatApp\SimpleChatApp (Package)\SimpleChatApp (Package).wapproj", "{F8907B8C-A681-4FC6-9295-D2A0A038BD29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleChatApp", "SimpleChatApp\SimpleChatApp\SimpleChatApp.csproj", "{AC92884D-4966-4E17-A80E-01A88652A4CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8907B8C-A681-4FC6-9295-D2A0A038BD29}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{F8907B8C-A681-4FC6-9295-D2A0A038BD29}.Debug|ARM64.Build.0 = Debug|ARM64
+		{F8907B8C-A681-4FC6-9295-D2A0A038BD29}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{F8907B8C-A681-4FC6-9295-D2A0A038BD29}.Debug|x64.ActiveCfg = Debug|x64
+		{F8907B8C-A681-4FC6-9295-D2A0A038BD29}.Debug|x64.Build.0 = Debug|x64
+		{F8907B8C-A681-4FC6-9295-D2A0A038BD29}.Debug|x64.Deploy.0 = Debug|x64
+		{F8907B8C-A681-4FC6-9295-D2A0A038BD29}.Debug|x86.ActiveCfg = Debug|x86
+		{F8907B8C-A681-4FC6-9295-D2A0A038BD29}.Debug|x86.Build.0 = Debug|x86
+		{F8907B8C-A681-4FC6-9295-D2A0A038BD29}.Debug|x86.Deploy.0 = Debug|x86
+		{F8907B8C-A681-4FC6-9295-D2A0A038BD29}.Release|ARM64.ActiveCfg = Release|ARM64
+		{F8907B8C-A681-4FC6-9295-D2A0A038BD29}.Release|ARM64.Build.0 = Release|ARM64
+		{F8907B8C-A681-4FC6-9295-D2A0A038BD29}.Release|ARM64.Deploy.0 = Release|ARM64
+		{F8907B8C-A681-4FC6-9295-D2A0A038BD29}.Release|x64.ActiveCfg = Release|x64
+		{F8907B8C-A681-4FC6-9295-D2A0A038BD29}.Release|x64.Build.0 = Release|x64
+		{F8907B8C-A681-4FC6-9295-D2A0A038BD29}.Release|x64.Deploy.0 = Release|x64
+		{F8907B8C-A681-4FC6-9295-D2A0A038BD29}.Release|x86.ActiveCfg = Release|x86
+		{F8907B8C-A681-4FC6-9295-D2A0A038BD29}.Release|x86.Build.0 = Release|x86
+		{F8907B8C-A681-4FC6-9295-D2A0A038BD29}.Release|x86.Deploy.0 = Release|x86
+		{AC92884D-4966-4E17-A80E-01A88652A4CC}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{AC92884D-4966-4E17-A80E-01A88652A4CC}.Debug|ARM64.Build.0 = Debug|ARM64
+		{AC92884D-4966-4E17-A80E-01A88652A4CC}.Debug|x64.ActiveCfg = Debug|x64
+		{AC92884D-4966-4E17-A80E-01A88652A4CC}.Debug|x64.Build.0 = Debug|x64
+		{AC92884D-4966-4E17-A80E-01A88652A4CC}.Debug|x86.ActiveCfg = Debug|x86
+		{AC92884D-4966-4E17-A80E-01A88652A4CC}.Debug|x86.Build.0 = Debug|x86
+		{AC92884D-4966-4E17-A80E-01A88652A4CC}.Release|ARM64.ActiveCfg = Release|ARM64
+		{AC92884D-4966-4E17-A80E-01A88652A4CC}.Release|ARM64.Build.0 = Release|ARM64
+		{AC92884D-4966-4E17-A80E-01A88652A4CC}.Release|x64.ActiveCfg = Release|x64
+		{AC92884D-4966-4E17-A80E-01A88652A4CC}.Release|x64.Build.0 = Release|x64
+		{AC92884D-4966-4E17-A80E-01A88652A4CC}.Release|x86.ActiveCfg = Release|x86
+		{AC92884D-4966-4E17-A80E-01A88652A4CC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AD07755-280C-488F-8918-6F1F6FD9FB2E}
+	EndGlobalSection
+EndGlobal
